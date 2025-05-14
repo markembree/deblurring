@@ -1,5 +1,5 @@
-# debrlurring
+# deblurring
 
-# Codes associated with the math modeling notes on
-# "Regularizing Ill-Posed Inverse Problems: Deblurring Barcodes"
-# by Mark Embree, May 2025
+# This repository contains supporting codes for the math modeling notes 
+# on "Regularizing Ill-Posed Inverse Problems: Deblurring Barcodes"
+# -- Mark Embree, May 2025
